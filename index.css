@@ -1,0 +1,5 @@
+.line {
+    white-space: pre-wrap; /* leidžia "suskaldyti" žodžius, kurių ilgis viršija eilutės plotį */
+    overflow-wrap: break-word; /* sustabdo žodžius, kurių ilgis viršija eilutės plotį */
+    width: 100%; /* padaro elementą 100% ekrano pločio */
+  }
